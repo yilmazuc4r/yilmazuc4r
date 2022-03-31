@@ -28,6 +28,6 @@ Selam Ben geldim
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=yilmazuc4r&show_icons=true&theme=radical)
 
-[Instagram Badge]<https://www.instagram.com/yilmazuc4r/>;
+[Instagram Badge]:<https://www.instagram.com/yilmazuc4r/>;
